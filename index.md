@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Digest of the HashiBox
 
-You can use the [editor on GitHub](https://github.com/hashibox/quotidie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+하루 하루의 하시코프 솔루션 사용 경험을 기록하기 위한 곳입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+가능하면 재사용 가능한 코드와 방법을 함께 공유하도록 하겠습니다.
 
-### Markdown
+## Quotidie, commentarius meus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [2022년 6월 24일](https://hashibox.github.io/quotidie/20220624)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Acta Non Verba
+실습 관련 내용을 추가할 예정입니다.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Code of Conduct
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hashibox/quotidie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 이 곳에 작성되는 내용은 하시코프 및 하시코프 코리아의 공식적인 의견이 될 수 없습니다.
+2. 이 곳에 있는 내용을 참고하여 자유롭게 재사용할 수 있으나, 항상 출처를 밝혀 주시기 바랍니다.
+3. 잘못된 내용이나 수정이 필요한 내용은 언제든지 자유롭게 알려주시기 바랍니다.
