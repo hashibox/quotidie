@@ -7,6 +7,7 @@
 ## Quotidie, commentarius meus
 
 - [2022년 6월 24일](https://hashibox.github.io/quotidie/20220624)
+- [2022년 6월 29일](https://hashibox.github.io/quotidie/20220629)
 
 
 
